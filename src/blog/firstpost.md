@@ -10,11 +10,12 @@ categories:
   - helloworld
 ---
 
+
+
 # New-Bloggen in Internaetum
 # (Listen! Me, of the New Blog On the Internet):
 
 So I've made multiple attempts at blogging in the past, but I've felt dissatisfied with most of the blogging sites/engines I've used, either feeling like a service was holding my hand ad nauseum, or feeling compelled to learn HTML, CSS, and JavaScript and just create static sites myself from scratch. Neither option was all that wonderful, until the wonderful [Alex Jordan](https://strugee.net) introduced me to his static site generator, Stratic. It's what's building the webpage you're reading right now. It's pretty cool and for me, is the perfect intermediate between doing everything for you, and doing nothing. So I'm pretty pleased to say that, with any likelihood, I'll be getting into blogging again. 
-
 
 
 
