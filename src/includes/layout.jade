@@ -1,11 +1,33 @@
 doctype html
 html
-	head
-		meta(charset='utf-8')
-		meta(name='viewport', content='width=device-width, initial-scale=1, maximum-scale=1')
-		link(rel='stylesheet', type='text/css', href='/css/main.css')
-		link(href='https://fonts.googleapis.com/css?family=Nunito+Sans', rel='stylesheet') 
-		block head
+  head
+    meta(charset='utf-8')
+    meta(name='viewport', content='width=device-width, initial-scale=1, maximum-scale=1')
+    link(rel='stylesheet', type='text/css', href='/css/main.css')
+    link(href='https://fonts.googleapis.com/css?family=Nunito+Sans', rel='stylesheet') 
+    block head
 
-	body
-		block content
+  body
+    #container
+
+      header
+
+        h1#blogname 
+
+        nav#navbar
+
+          ul
+
+            block nav-home
+              li.navlink
+                a(href='/') Home
+            block nav-blog
+              li.navlink
+                a(href='/blog/') Blog
+
+      #content
+
+        block content
+
+
+
