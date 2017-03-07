@@ -3,11 +3,17 @@ extends /src/includes/layout.jade
 include /src/includes/post.jade
 
 block nav-blog
-    li.navlink Blog
+    if indexType == 'main'
+      li.navlink Blog
+    else
+      li.navlink
+        a(href='/blog/') Blogy
 
 block head
+  
     if indexType === 'main'
         title Blog - <%= projectName =>
+  
     else if indexType === 'year'
         title Posts from #{year} - <%= projectName =>
     else if indexType === 'month'
@@ -21,7 +27,7 @@ block content
     .h-feed
         //- Index title
         if indexType === 'main'
-            h2.p-name Blog
+            h2.p-name#pagetitle Blog
             p#postsFrom Show only posts from 
                 each year in includedYears
                     a(href='/blog/' + year + '/')= year
