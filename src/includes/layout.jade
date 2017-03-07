@@ -12,10 +12,8 @@ html
 
       header
 
-        h1#blogname 
-
         nav#navbar
-
+        
           ul
 
             block nav-home
@@ -24,6 +22,9 @@ html
             block nav-blog
               li.navlink
                 a(href='/blog/') Blog
+            block nav-playground
+              li.navlink
+                a(href = '/playground') Playground
 
       #content
 
