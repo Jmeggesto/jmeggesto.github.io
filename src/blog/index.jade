@@ -7,20 +7,20 @@ block nav-blog
       li.navlink Blog
     else
       li.navlink
-        a(href='/blog/') Blogy
+        a(href='/blog/') Blog
 
 block head
   
     if indexType === 'main'
-        title Blog - <%= projectName =>
+        title Jackie Meggesto
   
     else if indexType === 'year'
-        title Posts from #{year} - <%= projectName =>
+        title Posts from #{year} - Jackie Meggesto
     else if indexType === 'month'
         - var monthName = new Date(1970, month).toLocaleString('en-us', {month: 'long'});
-        title Posts from #{monthName + ' ' + year} - <%= projectName =>
+        title Posts from #{monthName + ' ' + year} - Jackie Meggesto
     else if indexType === 'category'
-        title Posts categorized as "#{category}" - <%= projectName =>
+        title Posts categorized as "#{category}" - Jackie Meggesto
 
 block content
 
