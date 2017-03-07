@@ -90,10 +90,12 @@ gulp.task('serve', ['watch'], function() {
 	).listen(process.env.PORT || 8080);
 });
 
+
+
 gulp.task('watch', ['build'], function() {
   gulp.watch(['src/*.jade', 'src/includes/*.jade'], ['build:html', 'build:blog:posts', 'build:blog:index']);
 	gulp.watch('src/styles/*.styl', ['build:css']);
-	gulp.watch('src/scripts/*.js', ['build:js']);
+	gulp.watch('src/js/*.js', ['build:js']);
 	gulp.watch('src/blog/*.md', ['build:blog']);
 	gulp.watch('src/blog/*.jade', ['build:blog:posts', 'build:blog:index']);
 });
