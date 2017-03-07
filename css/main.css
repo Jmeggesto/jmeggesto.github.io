@@ -1,0 +1,51 @@
+a {
+  text-decoration: none;
+}
+head {
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+#pagetitle {
+  text-align: left;
+}
+.p-name {
+  text-align: center;
+  font-size: 2.5em;
+}
+body {
+  background-color: #d9d9d9;
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: light;
+  font-style: regular;
+  font-size: 0.9em;
+  line-height: 2.1em;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+.h-entry {
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+p.post-metadata {
+  font-size: 13px;
+  font-style: italic;
+  text-align: center;
+}
+#navbar ul {
+  padding-left: 0px;
+  margin-left: 0px;
+  font-size: 1.5em;
+}
+.navlink {
+  list-style-type: none;
+  display: inline;
+  margin-right: 2px;
+  text-transform: uppercase;
+}
+a:hover,
+a:focus {
+  color: #894ead;
+  text-decoration: underline;
+}
