@@ -18,7 +18,7 @@ var gulp = require('gulp'),
     path = require('path'),
     http = require('http');
 
-gulp.task('build', ['build:html', 'build:css', 'build:js', 'build:blog']);
+gulp.task('build', ['build:html', 'build:css', 'build:js', 'build:blog', 'build:images']);
 gulp.task('build:blog', ['build:blog:posts', 'build:blog:index']);
 
 gulp.task('build:html', function() {
@@ -63,8 +63,12 @@ gulp.task('build:css', function() {
 gulp.task('build:js', function() {
 	return gulp.src('src/js/*.js')
 	           .pipe(gulp.dest('dist/js'));
-
 });
+gulp.task('build:images', function(){
+    return gulp.src('src/images/*')
+               .pipe(gulp.dest('dist/images'))
+}) 
+
 
 gulp.task('lint', ['lint:html', 'lint:css', 'lint:js']);
 
