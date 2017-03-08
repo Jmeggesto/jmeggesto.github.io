@@ -102,4 +102,5 @@ gulp.task('watch', ['build'], function() {
 	gulp.watch('src/js/*.js', ['build:js']);
 	gulp.watch('src/blog/*.md', ['build:blog']);
 	gulp.watch('src/blog/*.jade', ['build:blog:posts', 'build:blog:index']);
+  gulp.watch('src/images/*', ['build:images'])
 });
