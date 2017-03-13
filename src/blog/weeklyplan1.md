@@ -5,10 +5,9 @@ time:
   utcoffset: "UTC-0"
 author: "Jackie Meggesto"
 categories:
-  - python
-  - images
-  - image manipulation
-  - experimentation
+  - planning
+  - blog
+  - organization
 ---
 
 It's Monday, March 13th, 2017, and a new week lies ahead of me, tender and raw, like a slab of meat waiting for a butcher to carve off its choicest cuts. Usually I shamble through each week, happening upon those delightful  morsels with no real rhyme or reason. Most of the time, that approach allows me to discover knowledge and arrive at new understandings in a very holistic and organic way, taking me down paths I wouldn't have expected. Sometimes it leads to the opposite - stagnation and inaction because of a lack of clear goals, or a lack of motivation.  Starting this week, I've decided to try something different - writing a blog post each Monday that outlines in some detail the things I want to accomplish or attempt in the next seven days. It won't necessarily be an exhaustive outline that has me following a rigid itinerary, but it'll hopefully provide some much-needed scaffolding for my weekly activities. Each Sunday, I'll write a "Weekly Reflection" that discusses what I learned and did each day of the previous week, how I'm feeling in general, etc. I'm excited to see how this scheme plays out and if it's better than how I'd been working before. So without further ado, let's make a plan.
