@@ -21,7 +21,7 @@ It's Monday, March 13th, 2017, and a new week lies ahead of me, tender and raw, 
     * Get this blog's homepage out of "under construction" phase
     * Work on implementing pow() function for Zig 
     * Remember to take my passata and bucatini home from RC 
-    * Take down [_Tweet_Boy](twitter.com/_Tweet_Boy) and write blog post about it
+    * Take down TweetBoy (twitter.com/_Tweet_Boy) and write blog post about it
     * Start taking a look at High Performance Python
     
 # Tuesday, March 13
