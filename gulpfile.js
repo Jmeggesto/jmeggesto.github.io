@@ -18,7 +18,7 @@ var gulp = require('gulp'),
     path = require('path'),
     http = require('http');
 
-gulp.task('build', ['build:html', 'build:css', 'build:js', 'build:blog', 'build:images']);
+gulp.task('build', ['build:html', 'build:css', 'build:js', 'build:images', 'build:blog']);
 gulp.task('build:blog', ['build:blog:posts', 'build:blog:index']);
 
 gulp.task('build:html', function() {
