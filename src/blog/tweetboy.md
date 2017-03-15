@@ -13,7 +13,7 @@ categories:
 
 # Eulogizing: Reflections on a Life Well Lived
 
-At approximately 13:42on March 13, 2017, my firstborn child, the perfect and beautiful [TweetBoy](https://twitter.com/_Tweet_Boy), was laid to rest. He was a good son, markovifying input to produce an amusing stream of output on Twitter, and he generated 2,851 tweets before his untimely demise. My emotions on this matter are complicated, of course, by the fact that the cause of his death was deactivation at the hands of yours truly. 
+At approximately 13:42 on March 13, 2017, my firstborn child, the perfect and beautiful [TweetBoy](https://twitter.com/_Tweet_Boy), was laid to rest. He was a good son, markovifying input to produce an amusing stream of output on Twitter, and he generated 2,851 tweets before his untimely demise. My emotions on this matter are complicated, of course, by the fact that the cause of his death was deactivation at the hands of yours truly. 
 
 TweetBoy was conceived in late January 2017. I had been playing around with Markov chains and looking at other people's bots, and I decided to create my own. At first I was intimidated by the idea of making my own bot, but then I realized that it would be relatively simple to have a cron job running every so often to run a Markov chain on some input and then just post the results to Twitter. He was born on when, after a few days of procrastination, I finally fixed the bug in the command I was executing for the cron job (forgetting to activate the Python virtual env to use the dependencies).
 
