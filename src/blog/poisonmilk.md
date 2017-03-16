@@ -1,7 +1,7 @@
 ---
 title: "Nine Reasons Not To Poison The Milk"
 time:
-  epoch: 1489562146
+  epoch: 1489632309
   utcoffset: "UTC-0"
 author: "Jackie Meggesto"
 categories:
@@ -9,10 +9,9 @@ categories:
   - humor
   - milk
   - poison
-  
 ---
 
-**Note: This blog post was inspired by a VERY silly conversation between myself and [Alex Jordan](https://strugee.net). Obviously poisoning milk that's in a communal space is bad because it could hurt people. This is just an absurd expoundment on the aforementioned conversation.** 
+*Note: This blog post was inspired by a VERY silly conversation between myself and [Alex Jordan](https://strugee.net). Obviously poisoning milk that's in a communal space is bad because it could hurt people. This is just an absurd expoundment on the aforementioned conversation.* 
 
 So it finally happened to you. It's okay - it's happened to all of us before. We've all gone through the ordeal of putting a jug of milk in a communal refrigerator at your local hackerspace and marked it "NOT COMMUNAL", only to have someone pour themselves a glass as an accompaniment for their orgasmically-delicious pumpkin pie. You were hoping that your Sharpie'd message would act as an adequate deterrent - that even if it WERE Pi Day, that your fellow programmers and hackers would have the decency to respect your private dairy libations. 
 
