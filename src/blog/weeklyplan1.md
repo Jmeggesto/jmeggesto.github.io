@@ -12,7 +12,7 @@ categories:
 
 It's Monday, March 13th, 2017, and a new week lies ahead of me, tender and raw, like a slab of meat waiting for a butcher to carve off its choicest cuts. Usually I shamble through each week, happening upon those delightful  morsels with no real rhyme or reason. Most of the time, that approach allows me to discover knowledge and arrive at new understandings in a very holistic and organic way, taking me down paths I wouldn't have expected. Sometimes it leads to the opposite - stagnation and inaction because of a lack of clear goals, or a lack of motivation.  Starting this week, I've decided to try something different - writing a blog post each Monday that outlines in some detail the things I want to accomplish or attempt in the next seven days. It won't necessarily be an exhaustive outline that has me following a rigid itinerary, but it'll hopefully provide some much-needed scaffolding for my weekly activities. Each Sunday, I'll write a "Weekly Reflection" that discusses what I learned and did each day of the previous week, how I'm feeling in general, etc. I'm excited to see how this scheme plays out and if it's better than how I'd been working before. So without further ado, let's make a plan.
 
-# Monday, March 12
+# Monday, March 13
 
     * Implement min/max heap from memory
     * Do 2 Hackerrank problems
@@ -23,7 +23,7 @@ It's Monday, March 13th, 2017, and a new week lies ahead of me, tender and raw, 
     * Take down TweetBoy (twitter.com/_Tweet_Boy) and write blog post about it
     * Start taking a look at High Performance Python
     
-# Tuesday, March 13
+# Tuesday, March 14
 
     * Read up more on Emacs, how it works, how to customize
     * 2 hackerrank problems
@@ -33,7 +33,7 @@ It's Monday, March 13th, 2017, and a new week lies ahead of me, tender and raw, 
     * Continue analysis of "no red pixels" strawberry image, work on blog post
     * Resume polish/review?
     
-# Wednesday, March 14th
+# Wednesday, March 15
 
     * Read up on GPG, crypto
     * Look into doing open source work for Zulip
@@ -41,7 +41,7 @@ It's Monday, March 13th, 2017, and a new week lies ahead of me, tender and raw, 
     * Play more with Three.js, expand blog's playground page
     * Work more on HTTP server
     
-# Thursday, March 15th
+# Thursday, March 16
 
     * Finish up Haskell HTTP server presentation
     * Deliver aforementioned presentation
@@ -49,7 +49,7 @@ It's Monday, March 13th, 2017, and a new week lies ahead of me, tender and raw, 
     * 2 hackerrank problems
     * Read up on graph algorithms
     
-# Friday, March 16th
+# Friday, March 17
 
     * Attend data structures/algorithms workshop
     * Go to interview prep at RC
