@@ -3,7 +3,7 @@ extends /src/includes/layout.jade
 include /src/includes/post.jade
 
 block head
-	title #{file.title} - JBlog
+	title #{file.data.title} - JBlog
 
 block content
 	+renderPost(file, false)
