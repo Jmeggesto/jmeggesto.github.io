@@ -1,5 +1,5 @@
 ---
-title: "(Temporarily) Killing My Firstborn Son: RIP TweetBoy"
+Title: "(Temporarily) Killing My Firstborn Son: RIP TweetBoy"
 time:
   epoch: 1489426226
   utcoffset: "UTC-0"
