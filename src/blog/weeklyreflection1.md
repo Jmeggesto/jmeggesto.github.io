@@ -1,5 +1,5 @@
 ---
-Title: "Weekly Reflection  Post 1"
+title: "Weekly Reflection  Post 1"
 time:
   epoch: 1490044304
   utcoffset: "UTC-0"
