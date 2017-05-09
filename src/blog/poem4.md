@@ -33,6 +33,12 @@ aesthetic of this, the
 
 center of my world,
 
+my home and my life,
+
+this wondrous city shining
+
+at the mouth to the Atlantic,
+
 are very lovely;
 
 I just with the pain 
